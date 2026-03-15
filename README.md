@@ -3,11 +3,9 @@ I am Amna Noor, a 3rd year Software Engineering student at NUST, Pakistan.
 
 Looking for ideas for my Final year Project — concentrating on computer vision and video stictching.
 
-My main techstack is node.js and python, favorite tools being PyTorch, TensorFlow, MongoDB, and mySQL.
+If an idea pops in my head theres a very high chance that i'll make it and ship it even if I have to learn the things related to it from scratch.
 
-If an idea pops in my head theres a very high chance that i'll make it and ship it even if i have to learn the things related to it from scratch.
-
-So far my favorite project that I worked on is [parkify](https://github.com/AmnaNoorr/parkify) — a parking ticketing and reservation app that ibuilt for a hackathon.
+So far my favorite project that I worked on is [parkify](https://github.com/AmnaNoorr/parkify) — a parking ticketing and reservation app that I built for a hackathon.
 
 ---
 
