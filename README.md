@@ -9,16 +9,22 @@ If an idea pops in my head theres a very high chance that i'll make it and ship 
 
 So far my favorite project that I worked on is [parkify](https://github.com/AmnaNoorr/parkify) — a parking ticketing and reservation app that ibuilt for a hackathon.
 
-##-  🛠️ TechStack: 
+---
+
+##  🛠️ TechStack: 
 *   🐍 **Python** — Core CV and Image Processing
 *   🚀 **Node.js** — Real-time Backend & Dashboarding
 *   🐳 **Docker** — Deployment & Containerization
 *   🔥 **PyTorch** — Deep Learning & Model Training
 *   🧠 **TensorFlow** — Neural Network Architecture
 *   🍃 **MongoDB** — NoSQL Database for Metadata
-*   🐬 **MySQL** — Relational Data Management
+*   🐬 **MySQL** — Relational Data Management  
 
-##- ⚡ Fun facts About Me: 
+---
+
+
+## ⚡ Fun facts About Me: 
+
   • I love coffee.
   
   • Reading books
@@ -29,4 +35,4 @@ So far my favorite project that I worked on is [parkify](https://github.com/Amna
   
 
   
- Find me on my [linkedIn](www.linkedin.com/in/amna-noor-685ba3305)
+ Find me on [linkedIn](www.linkedin.com/in/amna-noor-685ba3305)
