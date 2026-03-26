@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hiii 👋
 I am Amna Noor, a 3rd year Software Engineering student at NUST, Pakistan.
 
 Looking for ideas for my Final year Project — concentrating on computer vision and video stictching.
