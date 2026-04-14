@@ -1,36 +1,40 @@
-## Hiii 👋
-I am Amna Noor, a 3rd year Software Engineering student at NUST, Pakistan.
+# Hi, I'm Amna 👋
 
-Looking for ideas for my Final year Project — concentrating on computer vision and video Stitching.
+3rd year Software Engineering student at NUST, Pakistan — building at the
+intersection of machine learning and real-world impact.
 
-If an idea pops in my head theres a very high chance that i'll make it and ship it even if I have to learn the things related to it from scratch.
-
-So far my favorite project that I worked on is [parkify](https://github.com/AmnaNoorr/parkify) — a parking ticketing and reservation app that I built for a hackathon.
-
----
-
-##  🛠️ TechStack: 
-*   🐍 **Python** — Core CV and Image Processing
-*   🚀 **Node.js** — Real-time Backend & Dashboarding
-*   🐳 **Docker** — Deployment & Containerization
-*   🔥 **PyTorch** — Deep Learning & Model Training
-*   🧠 **TensorFlow** — Neural Network Architecture
-*   🍃 **MongoDB** — NoSQL Database for Metadata
-*   🐬 **MySQL** — Relational Data Management  
+I pick up whatever I need to learn to ship something. Currently focused on
+ML, deep learning, and accessibility tech.
 
 ---
 
+## 🔧 Tech Stack
 
-## ⚡ Fun facts About Me: 
+**ML / DL**
+PyTorch · TensorFlow · scikit-learn · OpenCV · Jupyter
 
-  • I love coffee.
-  
-  • Reading books
-  
-  • Watching ideas come to life
-  
-  • Solving Jigsaw puzzles
-  
+**Backend & Infra**
+Node.js · Python · Docker · MongoDB · MySQL
 
-  
- Find me on [linkedIn](www.linkedin.com/in/amna-noor-685ba3305)
+---
+
+## 🚀 Projects
+
+**[Parkify](https://github.com/AmnaNoorr/parkify)**
+Full-stack smart city parking and traffic management platform. Built for a
+hackathon — supports real-time reservations, violations, and multi-tenant
+city operations.
+
+**[ML Experiments](https://github.com/AmnaNoorr/ml-experiments)**
+Implementations of core ML algorithms — linear/logistic regression, SVMs,
+decision trees, random forests, PCA.
+
+**[Deep Learning Labs](https://github.com/AmnaNoorr/deep-learning-labs)**
+Hands-on DL work: CNNs, RNNs, VAEs, GANs, Q-learning, BiLSTM sentiment
+analysis — all in PyTorch.
+
+---
+
+## 📫 Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/amna-noor-685ba3305) · [X / Twitter](https://x.com/Noor_anma)
