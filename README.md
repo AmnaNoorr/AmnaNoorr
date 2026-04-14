@@ -1,7 +1,7 @@
 ## Hiii 👋
 I am Amna Noor, a 3rd year Software Engineering student at NUST, Pakistan.
 
-Looking for ideas for my Final year Project — concentrating on computer vision and video stictching.
+Looking for ideas for my Final year Project — concentrating on computer vision and video Stitching.
 
 If an idea pops in my head theres a very high chance that i'll make it and ship it even if I have to learn the things related to it from scratch.
 
