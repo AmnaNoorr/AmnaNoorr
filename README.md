@@ -1,6 +1,6 @@
 # Hi, I'm Amna 👋
 
-3rd year Software Engineering student at NUST, Pakistan — building at the
+Final year Software Engineering student at NUST, Pakistan — building at the
 intersection of machine learning and real-world impact.
 
 I pick up whatever I need to learn to ship something. Currently focused on
